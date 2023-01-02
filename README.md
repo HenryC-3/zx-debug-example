@@ -17,5 +17,5 @@ import "zx/globals";
 
 -   [测试文件](debug-2.js)
 
-1. 新建 `launch.json`，使用 `runtimeExecutable` 指定执行当前脚本的 runtime
+1. 新建 `launch.json`，使用 `runtimeExecutable` 指定执行当前脚本的 runtime，详见 [launch.json](.vscode/launch.json)。
 2. 使用该 `launch.json` debug
